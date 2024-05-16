@@ -29,6 +29,7 @@ public class GitTest01 {
 		}
 
 		System.out.println("The Reverse is ===>" + reverse);
+		System.out.println("The Length is ===>" + length);
 
 	}
 
